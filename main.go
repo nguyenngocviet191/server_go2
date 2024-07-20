@@ -11,5 +11,5 @@ import (
 // Hàm main
 func main() {
 	// Khởi tạo router
-	fmt.Println("Hello")
+	fmt.Println("Hello") // In ra màn hình
 }
